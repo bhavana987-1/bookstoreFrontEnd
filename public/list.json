@@ -1,0 +1,101 @@
+[ {
+        "id":1,
+        "name":"Alchemist",
+        "author":"Paulo Coelho",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+
+    {
+        "id":2,
+        "name":"Baby Shoes",
+        "author":"Hemingway",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    
+    },
+    
+    {
+        "id":3,
+        "name":"Beloved",
+        "author":"Toni Morison",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+    
+    {
+        "id":4,
+        "name":"Jane Eyre",
+        "author":"Charlotte",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+
+    {
+        "id":5,
+        "name":"Moby-Dick",
+        "author":"Melville",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+    
+    {
+        "id":6,
+        "name":"Invisible",
+        "author":"Ralph Ellison",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+
+    {
+        "id":7,
+        "name":"Dracula",
+        "author":"Bram Stoker",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+    
+    {
+        "id":8,
+        "name":"Middlemarch",
+        "author":"George Eliot",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    
+    },
+    
+    {
+        "id":9,
+        "name":"Odyssey",
+        "author":"Homer",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+
+    {
+        "id":10,
+        "name":"Matilda",
+        "author":"Roald Dahl",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    },
+
+    {
+        "id":11,
+        "name":"Life of Pie",
+        "author":"Yann Martel",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-book-wooden-table_53876-147959.jpg?t=st=1718970370~exp=1718973970~hmac=83af1a61e57256cf6e676cdda2b84cbb1fb88213c8f168f0dab9235e0f316f9b&w=900" 
+    }
+]
